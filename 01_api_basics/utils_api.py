@@ -1,4 +1,4 @@
-from ./consts import *
+from consts_api import *
 
 def get_model_response(messages):
     bedrock_client = boto3.client(service_name=SERVICE_NAME,region_name=REGION_NAME)
