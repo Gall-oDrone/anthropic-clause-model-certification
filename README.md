@@ -1,1 +1,1 @@
-# anthropic-clause-model-certification
+# anthropic-clause-model-certification -- Working with API
